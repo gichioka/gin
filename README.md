@@ -1,2 +1,4 @@
-gin+gormのインストール。mysqlの設定をやってます。
+gin+gormのインストール。
+
+mysqlの設定をやってます。
 
