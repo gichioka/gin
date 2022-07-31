@@ -1,4 +1,4 @@
 gin+gorm+mysqlのインストール
 
-mysqlの設定もやってます
+mysqlの設定もやってます。
 
